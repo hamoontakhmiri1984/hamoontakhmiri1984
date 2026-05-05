@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Hamoon;Frontend+Developer+%7C+React+%26+TypeScript;Building+clean%2C+scalable+web+applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Hamoon;Frontend+Developer+%7C+React+%26+TypeScript;Modern+Web,+Clean+Code,+Scalable+UIs" />
 </p>
 
 ---
 
 ## 🚀 About Me
-Frontend Developer with hands‑on experience in **React**, **TypeScript**, and building **production‑ready UI** with clean architecture and scalable state management.  
-Focused on building fast, modern, user‑friendly web applications and writing maintainable code.
+
+**Frontend Developer** specialized in crafting high-performance, scalable, and delightful web interfaces with **React** & **TypeScript**.
+
+- 💡 Clean code advocate & architecture enthusiast
+- ⚡ Transforming UI/UX challenges into robust user experiences
+- 🔎 Strong focus on maintainability, performance, and developer ergonomics
 
 ---
 
@@ -19,14 +23,15 @@ Focused on building fast, modern, user‑friendly web applications and writing m
 
 ## ⭐ Featured Project
 
-### 🛍 React Product Store  
-A modern e‑commerce frontend showcasing scalable architecture, React Query, Zustand, advanced filtering, sorting, and responsive UI.
+### 🛍 React Product Store
+A modern e‑commerce frontend—**designed for scalability & real world complexity**:
 
-🌐 **Live Demo**  
-https://react-product-store-zeta.vercel.app/
+- Advanced filters & responsive design
+- React Query, Zustand for state/data-fn
+- Well-structured, clean & testable code
 
-🔗 **Repository**  
-https://github.com/hamoontakhmiri1984/react-product-store
+[🌐 Live Demo](https://react-product-store-zeta.vercel.app/)  
+[🔗 GitHub Repo](https://github.com/hamoontakhmiri1984/react-product-store)
 
 ---
 
@@ -39,5 +44,15 @@ https://github.com/hamoontakhmiri1984/react-product-store
 ---
 
 ## 📫 Contact
-📧 Email: **hamoon.takhmiri1984@gmail.com**  
-🔗 GitHub: https://github.com/hamoontakhmiri1984
+
+- 📧 Email: **hamoon.takhmiri1984@gmail.com**  
+- 🔗 GitHub: [hamoontakhmiri1984](https://github.com/hamoontakhmiri1984)
+
+---
+
+<p align="center">
+  <b>
+    Always open to collaboration and new challenges in React & TypeScript.<br>
+    Let’s build something great, together!
+  </b>
+</p>
