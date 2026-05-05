@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Hamoon
 
-<!--
-**hamoontakhmiri1984/hamoontakhmiri1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer specializing in **React** and **TypeScript**.  
+I enjoy building modern, scalable web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Git & GitHub
+
+---
+
+## 📌 Featured Project
+
+### React Product Store
+E-commerce frontend built with React and TypeScript.
+
+Repository:
+https://github.com/hamoontakhmiri1984/react-product-store
+
+---
+
+## 📫 Contact
+
+Email: hamoon.takhmiri1984@gmail.com  
+GitHub: https://github.com/hamoontakhmiri1984
