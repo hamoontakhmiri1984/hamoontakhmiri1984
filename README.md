@@ -1,6 +1,6 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Hamoon;Frontend+Developer+%7C+React+%26+TypeScript;BBuilding+clean%2C+scalable+web+applications"
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Hamoon;Frontend+Developer+%7C+React+%26+TypeScript;Building+clean%2C+scalable+web+applications"
   />
 </p>
 
@@ -39,11 +39,14 @@ A modern e-commerce frontend demonstrating real-world architecture, React Query,
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="160"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamoontakhmiri1984&show_icons=true&theme=tokyonight" />
-<img height="160"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamoontakhmiri1984&layout=compact&theme=tokyonight" />
-
+  <img
+    height="160"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamoontakhmiri1984&show_icons=true&theme=tokyonight"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamoontakhmiri1984&layout=compact&theme=tokyonight"
+  />
 </p>
 
 ---
@@ -56,5 +59,8 @@ A modern e-commerce frontend demonstrating real-world architecture, React Query,
 ---
 
 <p align="center">
-  <b>Always open to collaboration and interesting React/TypeScript challenges. <br/> Let’s build impactful solutions together!</b>
+  <b>
+    Always open to collaboration and interesting React/TypeScript challenges. <br />
+    Let’s build impactful solutions together!
+  </b>
 </p>
