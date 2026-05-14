@@ -1,6 +1,6 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there+I'm+Hamoon;Frontend+Developer+React+and+TypeScript;Building+clean%2C+scalable+web+applications"
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&pause=1200&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi+there+👋+I'm+Hamoon;Frontend+Developer+⚛️+React+%26+TypeScript;🚀+Building+clean%2C+scalable+web+applications"
   />
 </p>
 
@@ -10,10 +10,10 @@
 
 Results-driven **Frontend Developer** with solid experience in building production-ready UIs using **React** and **TypeScript**.
 
-- Passionate about clean architecture and modular state management (Redux, Zustand, React Query)
-- Strong sense for UI/UX and delivering fast, modern, scalable web applications  
-- Advocate of maintainable code and best engineering practices  
-- Committed to continuous learning, teamwork, and delivering meaningful digital experiences
+- 🧱 Passionate about clean architecture and modular state management (Redux, Zustand, React Query)
+- 🎨 Strong sense for UI/UX and delivering fast, modern, scalable web applications
+- 🛠 Advocate of maintainable code and best engineering practices
+- 📚 Committed to continuous learning, teamwork, and delivering meaningful digital experiences
 
 ---
 
@@ -31,8 +31,8 @@ Results-driven **Frontend Developer** with solid experience in building producti
 
 A modern e-commerce frontend demonstrating real-world architecture, React Query, Zustand, advanced filtering, sorting, and fully responsive UI.
 
-[🌐 Live Demo](https://react-product-store-zeta.vercel.app/)  
-[🔗 Repository](https://github.com/hamoontakhmiri1984/react-product-store)
+🔗 **Live Demo:** https://react-product-store-zeta.vercel.app/  
+📦 **Repository:** https://github.com/hamoontakhmiri1984/react-product-store
 
 ---
 
@@ -51,16 +51,16 @@ A modern e-commerce frontend demonstrating real-world architecture, React Query,
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 - 📧 Email: **hamoon.takhmiri1984@gmail.com**
-- 🔗 GitHub: [hamoontakhmiri1984](https://github.com/hamoontakhmiri1984)
+- 💼 GitHub: https://github.com/hamoontakhmiri1984
 
 ---
 
 <p align="center">
   <b>
-    Always open to collaboration and interesting React/TypeScript challenges. <br />
-    Let’s build impactful solutions together!
+    💡 Always open to collaboration and exciting React / TypeScript challenges <br/>
+    🤝 Let’s build impactful solutions together!
   </b>
 </p>
