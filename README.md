@@ -25,13 +25,28 @@ Results-driven **Frontend Developer** with solid experience in building producti
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
+
+### 📝 Online Exam System
+
+A full-featured **online exam management platform** built with React 19, TypeScript, Vite, and Tailwind CSS v4. Supports three role-based access levels (SuperAdmin / Instructor / Student), full exam CRUD, an Excel-based question bank importer, a secure timed exam runner with auto-submit and review stage, real-time attempt tracking, dashboards & reports, and a polished dark mode.
+
+- 🔐 Role-based access control (SuperAdmin, Instructor, Student)
+- ⏱ Timed exam runner with auto-submit, warnings, and review step
+- 📊 Attempt tracking with live dashboards & reports
+- 📥 Excel import/export for the question bank
+- 🌗 Full dark mode support
+
+🔗 **Live Demo:** https://online-exam-typescript.vercel.app/#about
+📦 **Repository:** https://github.com/hamoontakhmiri1984/onlineExamTypescript
+
+---
 
 ### 🛍️ React Product Store
 
 A modern e-commerce frontend demonstrating real-world architecture, React Query, Zustand, advanced filtering, sorting, and fully responsive UI.
 
-🔗 **Live Demo:** https://react-product-store-zeta.vercel.app/  
+🔗 **Live Demo:** https://react-product-store-zeta.vercel.app/
 📦 **Repository:** https://github.com/hamoontakhmiri1984/react-product-store
 
 ---
@@ -70,6 +85,6 @@ A modern e-commerce frontend demonstrating real-world architecture, React Query,
 <p align="center">
   <b>
     💡 Always open to collaboration and exciting React / TypeScript challenges <br/>
-    🤝 Let’s build impactful solutions together!
+    🤝 Let's build impactful solutions together!
   </b>
 </p>
