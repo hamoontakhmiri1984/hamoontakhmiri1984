@@ -37,7 +37,7 @@ A full-featured **online exam management platform** built with React 19, TypeScr
 - 📥 Excel import/export for the question bank
 - 🌗 Full dark mode support
 
-🔗 **Live Demo:** https://online-exam-typescript.vercel.app/#about
+🔗 **Live Demo:** https://online-exam-typescript.vercel.app/#about  
 📦 **Repository:** https://github.com/hamoontakhmiri1984/onlineExamTypescript
 
 ---
@@ -46,7 +46,7 @@ A full-featured **online exam management platform** built with React 19, TypeScr
 
 A modern e-commerce frontend demonstrating real-world architecture, React Query, Zustand, advanced filtering, sorting, and fully responsive UI.
 
-🔗 **Live Demo:** https://react-product-store-zeta.vercel.app/
+🔗 **Live Demo:** https://react-product-store-zeta.vercel.app/  
 📦 **Repository:** https://github.com/hamoontakhmiri1984/react-product-store
 
 ---
