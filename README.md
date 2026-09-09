@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-Results-driven **Frontend Developer** with solid experience in building production-ready UIs using **React** and **TypeScript**.
+Results-driven **Frontend Developer** with solid experience building production-ready UIs with **React** and **TypeScript**.
 
 - 🧱 Passionate about clean architecture and modular state management (Redux, Zustand, React Query)
-- 🎨 Strong sense for UI/UX and delivering fast, modern, scalable web applications
-- 🛠 Advocate of maintainable code and best engineering practices
-- 📚 Committed to continuous learning, teamwork, and delivering meaningful digital experiences
+- 🎨 Strong sense for UI/UX — fast, modern, scalable web applications
+- 🛠 Advocate for maintainable code and solid engineering practices
+- 📚 Committed to continuous learning, teamwork, and building meaningful digital products
 
 ---
 
@@ -29,24 +29,24 @@ Results-driven **Frontend Developer** with solid experience in building producti
 
 ### 📝 Online Exam System
 
-A full-featured **online exam management platform** built with React 19, TypeScript, Vite, and Tailwind CSS v4. Supports three role-based access levels (SuperAdmin / Instructor / Student), full exam CRUD, an Excel-based question bank importer, a secure timed exam runner with auto-submit and review stage, real-time attempt tracking, dashboards & reports, and a polished dark mode.
+A full-featured **online exam management platform** built with React 19, TypeScript, Vite, and Tailwind CSS v4. Supports three role-based access levels (SuperAdmin / Instructor / Student), full exam CRUD, an Excel-based question bank importer, a secure timed exam runner with auto-submit and a review stage, real-time attempt tracking, dashboards & reports, and a polished dark mode.
 
 - 🔐 Role-based access control (SuperAdmin, Instructor, Student)
-- ⏱ Timed exam runner with auto-submit, warnings, and review step
+- ⏱ Timed exam runner with auto-submit, warnings, and a review step
 - 📊 Attempt tracking with live dashboards & reports
 - 📥 Excel import/export for the question bank
 - 🌗 Full dark mode support
 
-🔗 **Live Demo:** https://online-exam-typescript.vercel.app/#about  
-📦 **Repository:** https://github.com/hamoontakhmiri1984/onlineExamTypescript
+🔗 **Live Demo:** https://online-exam-typescript.vercel.app/
+📦 **Repository:** https://github.com/hamoontakhmiri1984/online-exam-typescript
 
 ---
 
 ### 🛍️ React Product Store
 
-A modern e-commerce frontend demonstrating real-world architecture, React Query, Zustand, advanced filtering, sorting, and fully responsive UI.
+A modern e-commerce frontend demonstrating real-world architecture, React Query, Zustand, advanced filtering, sorting, and a fully responsive UI.
 
-🔗 **Live Demo:** https://react-product-store-zeta.vercel.app/  
+🔗 **Live Demo:** https://react-product-store-zeta.vercel.app/
 📦 **Repository:** https://github.com/hamoontakhmiri1984/react-product-store
 
 ---
